@@ -1,5 +1,5 @@
 import './css/style.css';
 
-import '/Продвинутый JS/ajs-homeworks/ci-template/src';
+import './app.js';
 
 // TODO: write your code in app.js
