@@ -1,7 +1,7 @@
-module.exports = Game;
+import domainCharacter from "./domain";
 
 
-class Game {
+export default class Game {
     start() {
       console.log('game started');
     }
